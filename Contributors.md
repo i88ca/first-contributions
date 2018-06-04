@@ -4080,4 +4080,5 @@
 - [Mason Doug](https://github.com/iwanttocode12)
 - [Praise Mariah](https://github.com/praiseG)
 - [Matt Gurule](https://github.com/mmguru)
-- [Jacob Burton](https://github.com/jburton3141)
+- [Jacob Burton](https://github.com/jburton3141i)
+- [John Doe](https://github.com/johndoe)
